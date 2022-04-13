@@ -1,5 +1,5 @@
 export const colors = {
-	brandPurple: {
+	purple: {
 		500: '#8257e5',
 	},
 	gray: {
